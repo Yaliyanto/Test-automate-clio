@@ -1,0 +1,9 @@
+saya membangun automation dengan beberapa tools yaitu :
+
+    1. Menggunakan bahasa Python
+    2. Menggunakan Framework Pytest
+    3. Menggunakan tools selenium
+    4. Hal hal yang perlu diinstal adalah : 
+        a. Pytest ( pip install pytest)
+        b. selenium ( pip install selenium)
+    5. cara menjalankan nya adalah = " Pytest /Users/Anvipus/Desktop/testautomation/testing.py " ( Pytest + patah dari file codingannya )
