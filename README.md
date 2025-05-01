@@ -1,4 +1,4 @@
-# 📱 Mobile App Login Automation Testing
+# 📱 Mobile App Login Automation Testing ( Weyoco )
 
 This repository contains a simple automation test suite for login functionality in a mobile application. The tests are designed using **Appium** and **Pytest**, and run on an Android emulator using **Nox App Player**.
 
