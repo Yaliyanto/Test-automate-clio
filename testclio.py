@@ -120,12 +120,7 @@ def test_created_manner(driver):
 
 
 
-    
-    
 
-
-
-    # //span[@class='k-dropdown-wrap k-state-default k-state-hover k-state-focused k-state-active k-state-border-down']//span[@class='k-icon k-i-arrow-60-down']
     
 
 
